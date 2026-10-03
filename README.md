@@ -16,7 +16,7 @@
 **Languages**  
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
 **Frameworks & Ecosystem**  
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -51,5 +51,5 @@
 ### 📫 Connect with Me
 
 [<img src="https://img.shields.io/badge/Email-121212?style=for-the-badge&logo=gmail" />](sebastianrucabado0@gmail.com)
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/seb-rucabado-b60b08364)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge" />](https://www.linkedin.com/in/seb-rucabado-b60b08364)
 [<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />](https://x.com/SRucabado11307)
