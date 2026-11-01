@@ -5,7 +5,7 @@
 ---
 
 ### 🚀 What I'm Up To
-- 🔭 **Currently working on:** TScratch – A Scratch-style game engine for TypeScript.
+- 🔭 **Currently working on:** bakalari-cli, a CLI for the Czech school infomation system Bakaláři
 - 🌱 **Currently learning:** NestJS
 - 📫 **How to reach me:** sebastianrucabado0@gmail.com or https://www.linkedin.com/in/seb-rucabado-b60b08364
 
